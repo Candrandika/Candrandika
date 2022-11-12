@@ -16,5 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 ### My Currently Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=candrandika&show_icons=true&theme=radical&hide_border=true)
-![My Streak](https://github-readme-streak-stats.herokuapp.com?user=candrandika&theme=radical&hide_border=true)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candrandika&layout=compact&theme=radical&hide_border=true)
